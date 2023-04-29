@@ -1,5 +1,5 @@
-Mario Bros modificado con pistola - Unity
-Este es un proyecto de un juego de Mario Bros modificado que permite disparar con una pistola en lugar de saltar sobre los enemigos. Fue desarrollado como parte de la asignatura Diseño de Sistemas Hipermedia por Jose Manuel Troya Valero y Alvaro Pérez Lara.
+# Mario Bros modificado con pistola - Unity
+> Este es un proyecto de un juego de Mario Bros modificado que permite disparar con una pistola en lugar de saltar sobre los enemigos. Fue desarrollado como parte de la asignatura Diseño de Sistemas Hipermedia por Jose Manuel Troya Valero y Alvaro Pérez Lara.
 
 Requerimientos
 Unity 2019 o superior
